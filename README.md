@@ -1,1 +1,1 @@
-Task 0.Where am 1?
+Switches the current user to the user betty
