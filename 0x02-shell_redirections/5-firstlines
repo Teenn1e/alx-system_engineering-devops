@@ -1,1 +1,1 @@
-#!/bin/bash\n head /etc/passwd
+-e#!/bin/bash\n head /etc/passwd
